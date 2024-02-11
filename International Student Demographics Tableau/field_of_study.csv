@@ -1,0 +1,990 @@
+﻿year,field_of_study,major,students
+2000,Agriculture,Agriculture,5373
+2000,Agriculture,Natural Resources and Conservation,1827
+2000,Business and Management,Business and Management,105214
+2000,Communications and Journalism,"Communication, Journalism",9958
+2000,Communications and Journalism,Communications Technologies/Technicians,2261
+2000,Education,Education,14053
+2000,Engineering,Construction Trades,371
+2000,Engineering,Engineering,75815
+2000,Engineering,Engineering Technologies/Technicians,5630
+2000,Engineering,Mechanic and Repair Technologies/Technicians,497
+2000,Engineering,Military Technologies,210
+2000,Engineering,Precision Production,199
+2000,Engineering,Transportation and Materials Moving,674
+2000,Fine and Applied Arts,Architecture,6602
+2000,Fine and Applied Arts,Visual and Performing Arts,27618
+2000,Health Professions,Health Professions,22430
+2000,Health Professions,Residency Programs,0
+2000,Humanities,English Language and Literature/Letters,5735
+2000,Humanities,"Foreign Languages, Literatures and Linguistics",4889
+2000,Humanities,Philosophy and Religious Studies,1785
+2000,Humanities,Theology and Religious Vocations,3714
+2000,Intensive English,Intensive English,23011
+2000,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",697
+2000,Legal Studies and Law Enforcement,Legal Professions and Studies,5759
+2000,Math and Computer Science,Computer and Information Sciences,59836
+2000,Math and Computer Science,Mathematics and Statistics,7989
+2000,Other Fields of Study,Basic Skills,0
+2000,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2886
+2000,Other Fields of Study,Liberal Arts and Sciences/General Studies,28957
+2000,Other Fields of Study,Library Science,816
+2000,Other Fields of Study,Multi/Interdisciplinary Studies,6388
+2000,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2730
+2000,Other Fields of Study,Personal and Culinary Services,829
+2000,Other Fields of Study,Reserve Officer Training Corps,0
+2000,Physical and Life Sciences,Biological and Biomedical Sciences,20119
+2000,Physical and Life Sciences,Physical Sciences,16975
+2000,Physical and Life Sciences,Science Technologies/Technicians,1302
+2000,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2402
+2000,Social Sciences,History,0
+2000,Social Sciences,Psychology,7855
+2000,Social Sciences,Public Administration and Social Service Professions,4626
+2000,Social Sciences,Social Sciences,24057
+2000,Undeclared,Undeclared,35779
+2001,Agriculture,Agriculture,5916
+2001,Agriculture,Natural Resources and Conservation,2034
+2001,Business and Management,Business and Management,113495
+2001,Communications and Journalism,"Communication, Journalism",10560
+2001,Communications and Journalism,Communications Technologies/Technicians,2035
+2001,Education,Education,15709
+2001,Engineering,Construction Trades,437
+2001,Engineering,Engineering,79833
+2001,Engineering,Engineering Technologies/Technicians,5655
+2001,Engineering,Mechanic and Repair Technologies/Technicians,660
+2001,Engineering,Military Technologies,77
+2001,Engineering,Precision Production,168
+2001,Engineering,Transportation and Materials Moving,1428
+2001,Fine and Applied Arts,Architecture,6694
+2001,Fine and Applied Arts,Visual and Performing Arts,27284
+2001,Health Professions,Health Professions,24037
+2001,Health Professions,Residency Programs,0
+2001,Humanities,English Language and Literature/Letters,5795
+2001,Humanities,"Foreign Languages, Literatures and Linguistics",6097
+2001,Humanities,Philosophy and Religious Studies,2630
+2001,Humanities,Theology and Religious Vocations,3845
+2001,Intensive English,Intensive English,21237
+2001,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",749
+2001,Legal Studies and Law Enforcement,Legal Professions and Studies,6552
+2001,Math and Computer Science,Computer and Information Sciences,67850
+2001,Math and Computer Science,Mathematics and Statistics,8886
+2001,Other Fields of Study,Basic Skills,0
+2001,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2968
+2001,Other Fields of Study,Liberal Arts and Sciences/General Studies,29950
+2001,Other Fields of Study,Library Science,803
+2001,Other Fields of Study,Multi/Interdisciplinary Studies,6840
+2001,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2677
+2001,Other Fields of Study,Personal and Culinary Services,1390
+2001,Other Fields of Study,Reserve Officer Training Corps,0
+2001,Physical and Life Sciences,Biological and Biomedical Sciences,20672
+2001,Physical and Life Sciences,Physical Sciences,19433
+2001,Physical and Life Sciences,Science Technologies/Technicians,1312
+2001,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2420
+2001,Social Sciences,History,0
+2001,Social Sciences,Psychology,7729
+2001,Social Sciences,Public Administration and Social Service Professions,4884
+2001,Social Sciences,Social Sciences,26208
+2001,Undeclared,Undeclared,36048
+2002,Agriculture,Agriculture,4790
+2002,Agriculture,Natural Resources and Conservation,1973
+2002,Business and Management,Business and Management,113990
+2002,Communications and Journalism,"Communication, Journalism",10249
+2002,Communications and Journalism,Communications Technologies/Technicians,2477
+2002,Education,Education,16004
+2002,Engineering,Construction Trades,306
+2002,Engineering,Engineering,88809
+2002,Engineering,Engineering Technologies/Technicians,5781
+2002,Engineering,Mechanic and Repair Technologies/Technicians,426
+2002,Engineering,Military Technologies,29
+2002,Engineering,Precision Production,140
+2002,Engineering,Transportation and Materials Moving,1083
+2002,Fine and Applied Arts,Architecture,6712
+2002,Fine and Applied Arts,Visual and Performing Arts,24306
+2002,Health Professions,Health Professions,28120
+2002,Health Professions,Residency Programs,0
+2002,Humanities,English Language and Literature/Letters,5912
+2002,Humanities,"Foreign Languages, Literatures and Linguistics",6845
+2002,Humanities,Philosophy and Religious Studies,1990
+2002,Humanities,Theology and Religious Vocations,4406
+2002,Intensive English,Intensive English,17620
+2002,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",723
+2002,Legal Studies and Law Enforcement,Legal Professions and Studies,6411
+2002,Math and Computer Science,Computer and Information Sciences,61857
+2002,Math and Computer Science,Mathematics and Statistics,10069
+2002,Other Fields of Study,Basic Skills,0
+2002,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3376
+2002,Other Fields of Study,Liberal Arts and Sciences/General Studies,29972
+2002,Other Fields of Study,Library Science,901
+2002,Other Fields of Study,Multi/Interdisciplinary Studies,5058
+2002,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2840
+2002,Other Fields of Study,Personal and Culinary Services,787
+2002,Other Fields of Study,Reserve Officer Training Corps,0
+2002,Physical and Life Sciences,Biological and Biomedical Sciences,22960
+2002,Physical and Life Sciences,Physical Sciences,19484
+2002,Physical and Life Sciences,Science Technologies/Technicians,1105
+2002,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2304
+2002,Social Sciences,History,0
+2002,Social Sciences,Psychology,8522
+2002,Social Sciences,Public Administration and Social Service Professions,4814
+2002,Social Sciences,Social Sciences,26775
+2002,Undeclared,Undeclared,36395
+2003,Agriculture,Agriculture,5406
+2003,Agriculture,Natural Resources and Conservation,1886
+2003,Business and Management,Business and Management,107909
+2003,Communications and Journalism,"Communication, Journalism",9104
+2003,Communications and Journalism,Communications Technologies/Technicians,2335
+2003,Education,Education,15909
+2003,Engineering,Construction Trades,184
+2003,Engineering,Engineering,87528
+2003,Engineering,Engineering Technologies/Technicians,5920
+2003,Engineering,Mechanic and Repair Technologies/Technicians,486
+2003,Engineering,Military Technologies,5
+2003,Engineering,Precision Production,90
+2003,Engineering,Transportation and Materials Moving,1012
+2003,Fine and Applied Arts,Architecture,6678
+2003,Fine and Applied Arts,Visual and Performing Arts,25204
+2003,Health Professions,Health Professions,25749
+2003,Health Professions,Residency Programs,0
+2003,Humanities,English Language and Literature/Letters,4841
+2003,Humanities,"Foreign Languages, Literatures and Linguistics",5366
+2003,Humanities,Philosophy and Religious Studies,2243
+2003,Humanities,Theology and Religious Vocations,4172
+2003,Intensive English,Intensive English,15006
+2003,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",817
+2003,Legal Studies and Law Enforcement,Legal Professions and Studies,6222
+2003,Math and Computer Science,Computer and Information Sciences,57739
+2003,Math and Computer Science,Mathematics and Statistics,9954
+2003,Other Fields of Study,Basic Skills,0
+2003,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2801
+2003,Other Fields of Study,Liberal Arts and Sciences/General Studies,32007
+2003,Other Fields of Study,Library Science,742
+2003,Other Fields of Study,Multi/Interdisciplinary Studies,7057
+2003,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2872
+2003,Other Fields of Study,Personal and Culinary Services,879
+2003,Other Fields of Study,Reserve Officer Training Corps,0
+2003,Physical and Life Sciences,Biological and Biomedical Sciences,23290
+2003,Physical and Life Sciences,Physical Sciences,19603
+2003,Physical and Life Sciences,Science Technologies/Technicians,1714
+2003,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2639
+2003,Social Sciences,History,0
+2003,Social Sciences,Psychology,8352
+2003,Social Sciences,Public Administration and Social Service Professions,5372
+2003,Social Sciences,Social Sciences,34101
+2003,Undeclared,Undeclared,29313
+2004,Agriculture,Agriculture,5528
+2004,Agriculture,Natural Resources and Conservation,1991
+2004,Business and Management,Business and Management,98975
+2004,Communications and Journalism,"Communication, Journalism",9107
+2004,Communications and Journalism,Communications Technologies/Technicians,1848
+2004,Education,Education,15697
+2004,Engineering,Construction Trades,242
+2004,Engineering,Engineering,87999
+2004,Engineering,Engineering Technologies/Technicians,3427
+2004,Engineering,Mechanic and Repair Technologies/Technicians,277
+2004,Engineering,Military Technologies,18
+2004,Engineering,Precision Production,30
+2004,Engineering,Transportation and Materials Moving,977
+2004,Fine and Applied Arts,Architecture,6271
+2004,Fine and Applied Arts,Visual and Performing Arts,21792
+2004,Health Professions,Health Professions,26301
+2004,Health Professions,Residency Programs,154
+2004,Humanities,English Language and Literature/Letters,4590
+2004,Humanities,"Foreign Languages, Literatures and Linguistics",5839
+2004,Humanities,Philosophy and Religious Studies,1544
+2004,Humanities,Theology and Religious Vocations,3877
+2004,Intensive English,Intensive English,16133
+2004,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",882
+2004,Legal Studies and Law Enforcement,Legal Professions and Studies,6270
+2004,Math and Computer Science,Computer and Information Sciences,38966
+2004,Math and Computer Science,Mathematics and Statistics,11781
+2004,Other Fields of Study,Basic Skills,0
+2004,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3142
+2004,Other Fields of Study,Liberal Arts and Sciences/General Studies,32912
+2004,Other Fields of Study,Library Science,638
+2004,Other Fields of Study,Multi/Interdisciplinary Studies,5611
+2004,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2940
+2004,Other Fields of Study,Personal and Culinary Services,1104
+2004,Other Fields of Study,Reserve Officer Training Corps,0
+2004,Physical and Life Sciences,Biological and Biomedical Sciences,25987
+2004,Physical and Life Sciences,Physical Sciences,22498
+2004,Physical and Life Sciences,Science Technologies/Technicians,1014
+2004,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2570
+2004,Social Sciences,History,1774
+2004,Social Sciences,Psychology,7788
+2004,Social Sciences,Public Administration and Social Service Professions,5056
+2004,Social Sciences,Social Sciences,25075
+2004,Undeclared,Undeclared,27982
+2005,Agriculture,Agriculture,5475
+2005,Agriculture,Natural Resources and Conservation,2408
+2005,Business and Management,Business and Management,99382
+2005,Communications and Journalism,"Communication, Journalism",9573
+2005,Communications and Journalism,Communications Technologies/Technicians,2517
+2005,Education,Education,16546
+2005,Engineering,Construction Trades,290
+2005,Engineering,Engineering,82884
+2005,Engineering,Engineering Technologies/Technicians,4161
+2005,Engineering,Mechanic and Repair Technologies/Technicians,292
+2005,Engineering,Military Technologies,203
+2005,Engineering,Precision Production,20
+2005,Engineering,Transportation and Materials Moving,813
+2005,Fine and Applied Arts,Architecture,6036
+2005,Fine and Applied Arts,Visual and Performing Arts,23472
+2005,Health Professions,Health Professions,27124
+2005,Health Professions,Residency Programs,580
+2005,Humanities,English Language and Literature/Letters,4908
+2005,Humanities,"Foreign Languages, Literatures and Linguistics",6005
+2005,Humanities,Philosophy and Religious Studies,1613
+2005,Humanities,Theology and Religious Vocations,3954
+2005,Intensive English,Intensive English,17239
+2005,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",871
+2005,Legal Studies and Law Enforcement,Legal Professions and Studies,6114
+2005,Math and Computer Science,Computer and Information Sciences,34318
+2005,Math and Computer Science,Mathematics and Statistics,11200
+2005,Other Fields of Study,Basic Skills,0
+2005,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3264
+2005,Other Fields of Study,Liberal Arts and Sciences/General Studies,29865
+2005,Other Fields of Study,Library Science,729
+2005,Other Fields of Study,Multi/Interdisciplinary Studies,6557
+2005,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",3025
+2005,Other Fields of Study,Personal and Culinary Services,1498
+2005,Other Fields of Study,Reserve Officer Training Corps,0
+2005,Physical and Life Sciences,Biological and Biomedical Sciences,27233
+2005,Physical and Life Sciences,Physical Sciences,21655
+2005,Physical and Life Sciences,Science Technologies/Technicians,1281
+2005,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2373
+2005,Social Sciences,History,1868
+2005,Social Sciences,Psychology,8021
+2005,Social Sciences,Public Administration and Social Service Professions,4934
+2005,Social Sciences,Social Sciences,25039
+2005,Undeclared,Undeclared,17888
+2006,Agriculture,Agriculture,5114
+2006,Agriculture,Natural Resources and Conservation,2347
+2006,Business and Management,Business and Management,102506
+2006,Communications and Journalism,"Communication, Journalism",9127
+2006,Communications and Journalism,Communications Technologies/Technicians,2367
+2006,Education,Education,16825
+2006,Engineering,Construction Trades,160
+2006,Engineering,Engineering,84126
+2006,Engineering,Engineering Technologies/Technicians,3864
+2006,Engineering,Mechanic and Repair Technologies/Technicians,348
+2006,Engineering,Military Technologies,42
+2006,Engineering,Precision Production,22
+2006,Engineering,Transportation and Materials Moving,617
+2006,Fine and Applied Arts,Architecture,5742
+2006,Fine and Applied Arts,Visual and Performing Arts,23846
+2006,Health Professions,Health Professions,28294
+2006,Health Professions,Residency Programs,429
+2006,Humanities,English Language and Literature/Letters,4751
+2006,Humanities,"Foreign Languages, Literatures and Linguistics",6053
+2006,Humanities,Philosophy and Religious Studies,2443
+2006,Humanities,Theology and Religious Vocations,2942
+2006,Intensive English,Intensive English,22417
+2006,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",892
+2006,Legal Studies and Law Enforcement,Legal Professions and Studies,6368
+2006,Math and Computer Science,Computer and Information Sciences,33437
+2006,Math and Computer Science,Mathematics and Statistics,12582
+2006,Other Fields of Study,Basic Skills,0
+2006,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2720
+2006,Other Fields of Study,Liberal Arts and Sciences/General Studies,30371
+2006,Other Fields of Study,Library Science,724
+2006,Other Fields of Study,Multi/Interdisciplinary Studies,6996
+2006,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",3103
+2006,Other Fields of Study,Personal and Culinary Services,1135
+2006,Other Fields of Study,Reserve Officer Training Corps,0
+2006,Physical and Life Sciences,Biological and Biomedical Sciences,28315
+2006,Physical and Life Sciences,Physical Sciences,22497
+2006,Physical and Life Sciences,Science Technologies/Technicians,1051
+2006,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2353
+2006,Social Sciences,History,1878
+2006,Social Sciences,Psychology,8307
+2006,Social Sciences,Public Administration and Social Service Professions,5389
+2006,Social Sciences,Social Sciences,27056
+2006,Undeclared,Undeclared,19545
+2007,Agriculture,Agriculture,6721
+2007,Agriculture,Natural Resources and Conservation,2224
+2007,Business and Management,Business and Management,110041
+2007,Communications and Journalism,"Communication, Journalism",9222
+2007,Communications and Journalism,Communications Technologies/Technicians,2913
+2007,Education,Education,17775
+2007,Engineering,Construction Trades,493
+2007,Engineering,Engineering,89821
+2007,Engineering,Engineering Technologies/Technicians,4586
+2007,Engineering,Mechanic and Repair Technologies/Technicians,470
+2007,Engineering,Military Technologies,56
+2007,Engineering,Precision Production,39
+2007,Engineering,Transportation and Materials Moving,724
+2007,Fine and Applied Arts,Architecture,5940
+2007,Fine and Applied Arts,Visual and Performing Arts,25787
+2007,Health Professions,Health Professions,29163
+2007,Health Professions,Residency Programs,422
+2007,Humanities,English Language and Literature/Letters,4938
+2007,Humanities,"Foreign Languages, Literatures and Linguistics",6252
+2007,Humanities,Philosophy and Religious Studies,1996
+2007,Humanities,Theology and Religious Vocations,4274
+2007,Intensive English,Intensive English,25856
+2007,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",865
+2007,Legal Studies and Law Enforcement,Legal Professions and Studies,6598
+2007,Math and Computer Science,Computer and Information Sciences,34819
+2007,Math and Computer Science,Mathematics and Statistics,11494
+2007,Other Fields of Study,Basic Skills,0
+2007,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3276
+2007,Other Fields of Study,Liberal Arts and Sciences/General Studies,29248
+2007,Other Fields of Study,Library Science,809
+2007,Other Fields of Study,Multi/Interdisciplinary Studies,8760
+2007,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",2975
+2007,Other Fields of Study,Personal and Culinary Services,865
+2007,Other Fields of Study,Reserve Officer Training Corps,0
+2007,Physical and Life Sciences,Biological and Biomedical Sciences,29159
+2007,Physical and Life Sciences,Physical Sciences,22942
+2007,Physical and Life Sciences,Science Technologies/Technicians,766
+2007,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2204
+2007,Social Sciences,History,2112
+2007,Social Sciences,Psychology,7981
+2007,Social Sciences,Public Administration and Social Service Professions,5446
+2007,Social Sciences,Social Sciences,27792
+2007,Undeclared,Undeclared,19215
+2008,Agriculture,Agriculture,6294
+2008,Agriculture,Natural Resources and Conservation,2667
+2008,Business and Management,Business and Management,137495
+2008,Communications and Journalism,"Communication, Journalism",10885
+2008,Communications and Journalism,Communications Technologies/Technicians,2081
+2008,Education,Education,18120
+2008,Engineering,Construction Trades,602
+2008,Engineering,Engineering,111532
+2008,Engineering,Engineering Technologies/Technicians,5228
+2008,Engineering,Mechanic and Repair Technologies/Technicians,515
+2008,Engineering,Military Technologies,358
+2008,Engineering,Precision Production,56
+2008,Engineering,Transportation and Materials Moving,1047
+2008,Fine and Applied Arts,Architecture,7202
+2008,Fine and Applied Arts,Visual and Performing Arts,27652
+2008,Health Professions,Health Professions,35064
+2008,Health Professions,Residency Programs,382
+2008,Humanities,English Language and Literature/Letters,5745
+2008,Humanities,"Foreign Languages, Literatures and Linguistics",6726
+2008,Humanities,Philosophy and Religious Studies,3008
+2008,Humanities,Theology and Religious Vocations,3700
+2008,Intensive English,Intensive English,28524
+2008,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1089
+2008,Legal Studies and Law Enforcement,Legal Professions and Studies,8700
+2008,Math and Computer Science,Computer and Information Sciences,43050
+2008,Math and Computer Science,Mathematics and Statistics,13317
+2008,Other Fields of Study,Basic Skills,0
+2008,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2763
+2008,Other Fields of Study,Liberal Arts and Sciences/General Studies,37681
+2008,Other Fields of Study,Library Science,466
+2008,Other Fields of Study,Multi/Interdisciplinary Studies,9695
+2008,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",3628
+2008,Other Fields of Study,Personal and Culinary Services,1070
+2008,Other Fields of Study,Reserve Officer Training Corps,0
+2008,Physical and Life Sciences,Biological and Biomedical Sciences,34144
+2008,Physical and Life Sciences,Physical Sciences,26302
+2008,Physical and Life Sciences,Science Technologies/Technicians,1253
+2008,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2321
+2008,Social Sciences,History,2546
+2008,Social Sciences,Psychology,9269
+2008,Social Sciences,Public Administration and Social Service Professions,6253
+2008,Social Sciences,Social Sciences,32242
+2008,Undeclared,Undeclared,20944
+2009,Agriculture,Agriculture,6942
+2009,Agriculture,Natural Resources and Conservation,3346
+2009,Business and Management,Business and Management,144294
+2009,Communications and Journalism,"Communication, Journalism",11695
+2009,Communications and Journalism,Communications Technologies/Technicians,2717
+2009,Education,Education,18301
+2009,Engineering,Construction Trades,179
+2009,Engineering,Engineering,117325
+2009,Engineering,Engineering Technologies/Technicians,8026
+2009,Engineering,Mechanic and Repair Technologies/Technicians,463
+2009,Engineering,Military Technologies,1
+2009,Engineering,Precision Production,38
+2009,Engineering,Transportation and Materials Moving,1412
+2009,Fine and Applied Arts,Architecture,7944
+2009,Fine and Applied Arts,Visual and Performing Arts,27863
+2009,Health Professions,Health Professions,32105
+2009,Health Professions,Residency Programs,394
+2009,Humanities,English Language and Literature/Letters,5952
+2009,Humanities,"Foreign Languages, Literatures and Linguistics",6754
+2009,Humanities,Philosophy and Religious Studies,2225
+2009,Humanities,Theology and Religious Vocations,3062
+2009,Intensive English,Intensive English,26059
+2009,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1074
+2009,Legal Studies and Law Enforcement,Legal Professions and Studies,8965
+2009,Math and Computer Science,Computer and Information Sciences,45511
+2009,Math and Computer Science,Mathematics and Statistics,15289
+2009,Other Fields of Study,Basic Skills,0
+2009,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3570
+2009,Other Fields of Study,Liberal Arts and Sciences/General Studies,38520
+2009,Other Fields of Study,Library Science,553
+2009,Other Fields of Study,Multi/Interdisciplinary Studies,10317
+2009,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",4051
+2009,Other Fields of Study,Personal and Culinary Services,1107
+2009,Other Fields of Study,Reserve Officer Training Corps,0
+2009,Physical and Life Sciences,Biological and Biomedical Sciences,33929
+2009,Physical and Life Sciences,Physical Sciences,26547
+2009,Physical and Life Sciences,Science Technologies/Technicians,835
+2009,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2131
+2009,Social Sciences,History,2424
+2009,Social Sciences,Psychology,8992
+2009,Social Sciences,Public Administration and Social Service Professions,6934
+2009,Social Sciences,Social Sciences,34372
+2009,Undeclared,Undeclared,18705
+2010,Agriculture,Agriculture,6801
+2010,Agriculture,Natural Resources and Conservation,3087
+2010,Business and Management,Business and Management,154452
+2010,Communications and Journalism,"Communication, Journalism",12225
+2010,Communications and Journalism,Communications Technologies/Technicians,2537
+2010,Education,Education,16933
+2010,Engineering,Construction Trades,319
+2010,Engineering,Engineering,126180
+2010,Engineering,Engineering Technologies/Technicians,6640
+2010,Engineering,Mechanic and Repair Technologies/Technicians,506
+2010,Engineering,Military Technologies,24
+2010,Engineering,Precision Production,43
+2010,Engineering,Transportation and Materials Moving,1904
+2010,Fine and Applied Arts,Architecture,8819
+2010,Fine and Applied Arts,Visual and Performing Arts,28418
+2010,Health Professions,Health Professions,32526
+2010,Health Professions,Residency Programs,295
+2010,Humanities,English Language and Literature/Letters,4969
+2010,Humanities,"Foreign Languages, Literatures and Linguistics",6669
+2010,Humanities,Philosophy and Religious Studies,2215
+2010,Humanities,Theology and Religious Vocations,2410
+2010,Intensive English,Intensive English,32306
+2010,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1093
+2010,Legal Studies and Law Enforcement,Legal Professions and Studies,9656
+2010,Math and Computer Science,Computer and Information Sciences,46849
+2010,Math and Computer Science,Mathematics and Statistics,17739
+2010,Other Fields of Study,Basic Skills,0
+2010,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3676
+2010,Other Fields of Study,Liberal Arts and Sciences/General Studies,36856
+2010,Other Fields of Study,Library Science,431
+2010,Other Fields of Study,Multi/Interdisciplinary Studies,9663
+2010,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",3909
+2010,Other Fields of Study,Personal and Culinary Services,1317
+2010,Other Fields of Study,Reserve Officer Training Corps,96
+2010,Physical and Life Sciences,Biological and Biomedical Sciences,34784
+2010,Physical and Life Sciences,Physical Sciences,27674
+2010,Physical and Life Sciences,Science Technologies/Technicians,1013
+2010,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2317
+2010,Social Sciences,History,2289
+2010,Social Sciences,Psychology,9569
+2010,Social Sciences,Public Administration and Social Service Professions,6763
+2010,Social Sciences,Social Sciences,37407
+2010,Undeclared,Undeclared,19898
+2011,Agriculture,Agriculture,6535
+2011,Agriculture,Natural Resources and Conservation,3215
+2011,Business and Management,Business and Management,164943
+2011,Communications and Journalism,"Communication, Journalism",13169
+2011,Communications and Journalism,Communications Technologies/Technicians,2538
+2011,Education,Education,17200
+2011,Engineering,Construction Trades,157
+2011,Engineering,Engineering,132414
+2011,Engineering,Engineering Technologies/Technicians,6504
+2011,Engineering,Mechanic and Repair Technologies/Technicians,527
+2011,Engineering,Military Technologies,28
+2011,Engineering,Precision Production,40
+2011,Engineering,Transportation and Materials Moving,1643
+2011,Fine and Applied Arts,Architecture,9992
+2011,Fine and Applied Arts,Visual and Performing Arts,31718
+2011,Health Professions,Health Professions,29535
+2011,Health Professions,Residency Programs,287
+2011,Humanities,English Language and Literature/Letters,5018
+2011,Humanities,"Foreign Languages, Literatures and Linguistics",6498
+2011,Humanities,Philosophy and Religious Studies,2237
+2011,Humanities,Theology and Religious Vocations,2541
+2011,Intensive English,Intensive English,38887
+2011,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1406
+2011,Legal Studies and Law Enforcement,Legal Professions and Studies,9779
+2011,Math and Computer Science,Computer and Information Sciences,51333
+2011,Math and Computer Science,Mathematics and Statistics,20031
+2011,Other Fields of Study,Basic Skills,0
+2011,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3452
+2011,Other Fields of Study,Liberal Arts and Sciences/General Studies,36919
+2011,Other Fields of Study,Library Science,378
+2011,Other Fields of Study,Multi/Interdisciplinary Studies,10701
+2011,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",3783
+2011,Other Fields of Study,Personal and Culinary Services,1790
+2011,Other Fields of Study,Reserve Officer Training Corps,1
+2011,Physical and Life Sciences,Biological and Biomedical Sciences,35815
+2011,Physical and Life Sciences,Physical Sciences,29281
+2011,Physical and Life Sciences,Science Technologies/Technicians,911
+2011,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2181
+2011,Social Sciences,History,2177
+2011,Social Sciences,Psychology,10239
+2011,Social Sciences,Public Administration and Social Service Professions,7136
+2011,Social Sciences,Social Sciences,39241
+2011,Undeclared,Undeclared,22315
+2012,Agriculture,Agriculture,7043
+2012,Agriculture,Natural Resources and Conservation,3420
+2012,Business and Management,Business and Management,177741
+2012,Communications and Journalism,"Communication, Journalism",14938
+2012,Communications and Journalism,Communications Technologies/Technicians,2559
+2012,Education,Education,17011
+2012,Engineering,Construction Trades,150
+2012,Engineering,Engineering,144805
+2012,Engineering,Engineering Technologies/Technicians,6553
+2012,Engineering,Mechanic and Repair Technologies/Technicians,455
+2012,Engineering,Military Technologies,53
+2012,Engineering,Precision Production,62
+2012,Engineering,Transportation and Materials Moving,2161
+2012,Fine and Applied Arts,Architecture,10918
+2012,Fine and Applied Arts,Visual and Performing Arts,34932
+2012,Health Professions,Health Professions,31222
+2012,Health Professions,Residency Programs,249
+2012,Humanities,English Language and Literature/Letters,5196
+2012,Humanities,"Foreign Languages, Literatures and Linguistics",6774
+2012,Humanities,Philosophy and Religious Studies,2122
+2012,Humanities,Theology and Religious Vocations,3029
+2012,Intensive English,Intensive English,39990
+2012,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1343
+2012,Legal Studies and Law Enforcement,Legal Professions and Studies,9955
+2012,Math and Computer Science,Computer and Information Sciences,53953
+2012,Math and Computer Science,Mathematics and Statistics,23607
+2012,Other Fields of Study,Basic Skills,1443
+2012,Other Fields of Study,Family and Consumer Sciences/Human Sciences,4116
+2012,Other Fields of Study,Liberal Arts and Sciences/General Studies,35172
+2012,Other Fields of Study,Library Science,393
+2012,Other Fields of Study,Multi/Interdisciplinary Studies,10991
+2012,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",4145
+2012,Other Fields of Study,Personal and Culinary Services,1243
+2012,Other Fields of Study,Reserve Officer Training Corps,7
+2012,Physical and Life Sciences,Biological and Biomedical Sciences,36780
+2012,Physical and Life Sciences,Physical Sciences,31352
+2012,Physical and Life Sciences,Science Technologies/Technicians,1020
+2012,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2298
+2012,Social Sciences,History,2313
+2012,Social Sciences,Psychology,11271
+2012,Social Sciences,Public Administration and Social Service Professions,7602
+2012,Social Sciences,Social Sciences,44302
+2012,Undeclared,Undeclared,24955
+2013,Agriculture,Agriculture,7114
+2013,Agriculture,Natural Resources and Conservation,3521
+2013,Business and Management,Business and Management,188179
+2013,Communications and Journalism,"Communication, Journalism",15851
+2013,Communications and Journalism,Communications Technologies/Technicians,2827
+2013,Education,Education,17879
+2013,Engineering,Construction Trades,203
+2013,Engineering,Engineering,160128
+2013,Engineering,Engineering Technologies/Technicians,7310
+2013,Engineering,Mechanic and Repair Technologies/Technicians,581
+2013,Engineering,Military Technologies,10
+2013,Engineering,Precision Production,54
+2013,Engineering,Transportation and Materials Moving,1903
+2013,Fine and Applied Arts,Architecture,12105
+2013,Fine and Applied Arts,Visual and Performing Arts,39090
+2013,Health Professions,Health Professions,31527
+2013,Health Professions,Residency Programs,427
+2013,Humanities,English Language and Literature/Letters,5446
+2013,Humanities,"Foreign Languages, Literatures and Linguistics",7079
+2013,Humanities,Philosophy and Religious Studies,2173
+2013,Humanities,Theology and Religious Vocations,3232
+2013,Intensive English,Intensive English,43456
+2013,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1830
+2013,Legal Studies and Law Enforcement,Legal Professions and Studies,10872
+2013,Math and Computer Science,Computer and Information Sciences,65291
+2013,Math and Computer Science,Mathematics and Statistics,26143
+2013,Other Fields of Study,Basic Skills,2092
+2013,Other Fields of Study,Family and Consumer Sciences/Human Sciences,4056
+2013,Other Fields of Study,Liberal Arts and Sciences/General Studies,39137
+2013,Other Fields of Study,Library Science,402
+2013,Other Fields of Study,Multi/Interdisciplinary Studies,12197
+2013,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",4228
+2013,Other Fields of Study,Personal and Culinary Services,1132
+2013,Other Fields of Study,Reserve Officer Training Corps,13
+2013,Physical and Life Sciences,Biological and Biomedical Sciences,37357
+2013,Physical and Life Sciences,Physical Sciences,32187
+2013,Physical and Life Sciences,Science Technologies/Technicians,935
+2013,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2616
+2013,Social Sciences,History,2445
+2013,Social Sciences,Psychology,12060
+2013,Social Sciences,Public Administration and Social Service Professions,8089
+2013,Social Sciences,Social Sciences,47180
+2013,Undeclared,Undeclared,25695
+2014,Agriculture,Agriculture,8271
+2014,Agriculture,Natural Resources and Conservation,4007
+2014,Business and Management,Business and Management,197258
+2014,Communications and Journalism,"Communication, Journalism",16964
+2014,Communications and Journalism,Communications Technologies/Technicians,3197
+2014,Education,Education,17675
+2014,Engineering,Construction Trades,183
+2014,Engineering,Engineering,184603
+2014,Engineering,Engineering Technologies/Technicians,9149
+2014,Engineering,Mechanic and Repair Technologies/Technicians,538
+2014,Engineering,Military Technologies,16
+2014,Engineering,Precision Production,69
+2014,Engineering,Transportation and Materials Moving,2192
+2014,Fine and Applied Arts,Architecture,13507
+2014,Fine and Applied Arts,Visual and Performing Arts,43251
+2014,Health Professions,Health Professions,33247
+2014,Health Professions,Residency Programs,152
+2014,Humanities,English Language and Literature/Letters,5340
+2014,Humanities,"Foreign Languages, Literatures and Linguistics",7389
+2014,Humanities,Philosophy and Religious Studies,2101
+2014,Humanities,Theology and Religious Vocations,2674
+2014,Intensive English,Intensive English,49233
+2014,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2002
+2014,Legal Studies and Law Enforcement,Legal Professions and Studies,11776
+2014,Math and Computer Science,Computer and Information Sciences,83241
+2014,Math and Computer Science,Mathematics and Statistics,29709
+2014,Other Fields of Study,Basic Skills,2705
+2014,Other Fields of Study,Family and Consumer Sciences/Human Sciences,4158
+2014,Other Fields of Study,Liberal Arts and Sciences/General Studies,45762
+2014,Other Fields of Study,Library Science,301
+2014,Other Fields of Study,Multi/Interdisciplinary Studies,14912
+2014,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",4252
+2014,Other Fields of Study,Personal and Culinary Services,1078
+2014,Other Fields of Study,Reserve Officer Training Corps,8
+2014,Physical and Life Sciences,Biological and Biomedical Sciences,39294
+2014,Physical and Life Sciences,Physical Sciences,33607
+2014,Physical and Life Sciences,Science Technologies/Technicians,937
+2014,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2504
+2014,Social Sciences,History,2420
+2014,Social Sciences,Psychology,12840
+2014,Social Sciences,Public Administration and Social Service Professions,8816
+2014,Social Sciences,Social Sciences,49371
+2014,Undeclared,Undeclared,24217
+2015,Agriculture,Agriculture,8043
+2015,Agriculture,Natural Resources and Conservation,4275
+2015,Business and Management,Business and Management,200312
+2015,Communications and Journalism,"Communication, Journalism",18483
+2015,Communications and Journalism,Communications Technologies/Technicians,2677
+2015,Education,Education,19483
+2015,Engineering,Construction Trades,255
+2015,Engineering,Engineering,201145
+2015,Engineering,Engineering Technologies/Technicians,12871
+2015,Engineering,Mechanic and Repair Technologies/Technicians,671
+2015,Engineering,Military Technologies,116
+2015,Engineering,Precision Production,75
+2015,Engineering,Transportation and Materials Moving,1799
+2015,Fine and Applied Arts,Architecture,14131
+2015,Fine and Applied Arts,Visual and Performing Arts,45605
+2015,Health Professions,Health Professions,33646
+2015,Health Professions,Residency Programs,301
+2015,Humanities,English Language and Literature/Letters,5052
+2015,Humanities,"Foreign Languages, Literatures and Linguistics",7298
+2015,Humanities,Philosophy and Religious Studies,2170
+2015,Humanities,Theology and Religious Vocations,3144
+2015,Intensive English,Intensive English,40877
+2015,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2368
+2015,Legal Studies and Law Enforcement,Legal Professions and Studies,12709
+2015,Math and Computer Science,Computer and Information Sciences,107682
+2015,Math and Computer Science,Mathematics and Statistics,33969
+2015,Other Fields of Study,Basic Skills,3101
+2015,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3869
+2015,Other Fields of Study,Liberal Arts and Sciences/General Studies,50360
+2015,Other Fields of Study,Library Science,350
+2015,Other Fields of Study,Multi/Interdisciplinary Studies,17795
+2015,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",5083
+2015,Other Fields of Study,Personal and Culinary Services,737
+2015,Other Fields of Study,Reserve Officer Training Corps,23
+2015,Physical and Life Sciences,Biological and Biomedical Sciences,40184
+2015,Physical and Life Sciences,Physical Sciences,33525
+2015,Physical and Life Sciences,Science Technologies/Technicians,1676
+2015,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2656
+2015,Social Sciences,History,3150
+2015,Social Sciences,Psychology,14189
+2015,Social Sciences,Public Administration and Social Service Professions,8741
+2015,Social Sciences,Social Sciences,52568
+2015,Undeclared,Undeclared,26675
+2016,Agriculture,Agriculture,7798
+2016,Agriculture,Natural Resources and Conservation,4804
+2016,Business and Management,Business and Management,200754
+2016,Communications and Journalism,"Communication, Journalism",18622
+2016,Communications and Journalism,Communications Technologies/Technicians,3291
+2016,Education,Education,17993
+2016,Engineering,Construction Trades,276
+2016,Engineering,Engineering,212140
+2016,Engineering,Engineering Technologies/Technicians,15309
+2016,Engineering,Mechanic and Repair Technologies/Technicians,659
+2016,Engineering,Military Technologies,267
+2016,Engineering,Precision Production,85
+2016,Engineering,Transportation and Materials Moving,1975
+2016,Fine and Applied Arts,Architecture,15332
+2016,Fine and Applied Arts,Visual and Performing Arts,46174
+2016,Health Professions,Health Professions,34181
+2016,Health Professions,Residency Programs,214
+2016,Humanities,English Language and Literature/Letters,5105
+2016,Humanities,"Foreign Languages, Literatures and Linguistics",7521
+2016,Humanities,Philosophy and Religious Studies,2524
+2016,Humanities,Theology and Religious Vocations,2411
+2016,Intensive English,Intensive English,30309
+2016,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2281
+2016,Legal Studies and Law Enforcement,Legal Professions and Studies,13025
+2016,Math and Computer Science,Computer and Information Sciences,127324
+2016,Math and Computer Science,Mathematics and Statistics,39856
+2016,Other Fields of Study,Basic Skills,2847
+2016,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3763
+2016,Other Fields of Study,Liberal Arts and Sciences/General Studies,54005
+2016,Other Fields of Study,Library Science,320
+2016,Other Fields of Study,Multi/Interdisciplinary Studies,20359
+2016,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",5299
+2016,Other Fields of Study,Personal and Culinary Services,979
+2016,Other Fields of Study,Reserve Officer Training Corps,5
+2016,Physical and Life Sciences,Biological and Biomedical Sciences,41589
+2016,Physical and Life Sciences,Physical Sciences,34484
+2016,Physical and Life Sciences,Science Technologies/Technicians,765
+2016,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2805
+2016,Social Sciences,History,2572
+2016,Social Sciences,Psychology,14912
+2016,Social Sciences,Public Administration and Social Service Professions,8641
+2016,Social Sciences,Social Sciences,54116
+2016,Undeclared,Undeclared,21131
+2017,Agriculture,Agriculture,7745
+2017,Agriculture,Natural Resources and Conservation,4728
+2017,Business and Management,Business and Management,196054
+2017,Communications and Journalism,"Communication, Journalism",19804
+2017,Communications and Journalism,Communications Technologies/Technicians,3020
+2017,Education,Education,17615
+2017,Engineering,Construction Trades,186
+2017,Engineering,Engineering,215290
+2017,Engineering,Engineering Technologies/Technicians,14010
+2017,Engineering,Mechanic and Repair Technologies/Technicians,567
+2017,Engineering,Military Technologies,73
+2017,Engineering,Precision Production,88
+2017,Engineering,Transportation and Materials Moving,2496
+2017,Fine and Applied Arts,Architecture,15252
+2017,Fine and Applied Arts,Visual and Performing Arts,48543
+2017,Health Professions,Health Professions,34858
+2017,Health Professions,Residency Programs,311
+2017,Humanities,English Language and Literature/Letters,4994
+2017,Humanities,"Foreign Languages, Literatures and Linguistics",7508
+2017,Humanities,Philosophy and Religious Studies,2608
+2017,Humanities,Theology and Religious Vocations,1930
+2017,Intensive English,Intensive English,25845
+2017,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2247
+2017,Legal Studies and Law Enforcement,Legal Professions and Studies,14647
+2017,Math and Computer Science,Computer and Information Sciences,144574
+2017,Math and Computer Science,Mathematics and Statistics,41429
+2017,Other Fields of Study,Basic Skills,3058
+2017,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3793
+2017,Other Fields of Study,Liberal Arts and Sciences/General Studies,52976
+2017,Other Fields of Study,Library Science,282
+2017,Other Fields of Study,Multi/Interdisciplinary Studies,22378
+2017,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",5404
+2017,Other Fields of Study,Personal and Culinary Services,822
+2017,Other Fields of Study,Reserve Officer Training Corps,7
+2017,Physical and Life Sciences,Biological and Biomedical Sciences,42996
+2017,Physical and Life Sciences,Physical Sciences,35018
+2017,Physical and Life Sciences,Science Technologies/Technicians,686
+2017,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2827
+2017,Social Sciences,History,2485
+2017,Social Sciences,Psychology,15462
+2017,Social Sciences,Public Administration and Social Service Professions,8368
+2017,Social Sciences,Social Sciences,54566
+2017,Undeclared,Undeclared,17242
+2018,Agriculture,Agriculture,8538
+2018,Agriculture,Natural Resources and Conservation,5216
+2018,Business and Management,Business and Management,182170
+2018,Communications and Journalism,"Communication, Journalism",19797
+2018,Communications and Journalism,Communications Technologies/Technicians,4220
+2018,Education,Education,16786
+2018,Engineering,Construction Trades,313
+2018,Engineering,Engineering,214331
+2018,Engineering,Engineering Technologies/Technicians,13275
+2018,Engineering,Mechanic and Repair Technologies/Technicians,605
+2018,Engineering,Military Technologies,89
+2018,Engineering,Precision Production,82
+2018,Engineering,Transportation and Materials Moving,2085
+2018,Fine and Applied Arts,Architecture,14690
+2018,Fine and Applied Arts,Visual and Performing Arts,48407
+2018,Health Professions,Health Professions,35269
+2018,Health Professions,Residency Programs,177
+2018,Humanities,English Language and Literature/Letters,4916
+2018,Humanities,"Foreign Languages, Literatures and Linguistics",7357
+2018,Humanities,Philosophy and Religious Studies,2673
+2018,Humanities,Theology and Religious Vocations,2067
+2018,Intensive English,Intensive English,22026
+2018,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2322
+2018,Legal Studies and Law Enforcement,Legal Professions and Studies,14161
+2018,Math and Computer Science,Computer and Information Sciences,156654
+2018,Math and Computer Science,Mathematics and Statistics,46807
+2018,Other Fields of Study,Basic Skills,2790
+2018,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3951
+2018,Other Fields of Study,Liberal Arts and Sciences/General Studies,51270
+2018,Other Fields of Study,Library Science,307
+2018,Other Fields of Study,Multi/Interdisciplinary Studies,21052
+2018,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",6008
+2018,Other Fields of Study,Personal and Culinary Services,671
+2018,Other Fields of Study,Reserve Officer Training Corps,8
+2018,Physical and Life Sciences,Biological and Biomedical Sciences,45338
+2018,Physical and Life Sciences,Physical Sciences,35349
+2018,Physical and Life Sciences,Science Technologies/Technicians,893
+2018,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2697
+2018,Social Sciences,History,2585
+2018,Social Sciences,Psychology,16139
+2018,Social Sciences,Public Administration and Social Service Professions,8248
+2018,Social Sciences,Social Sciences,54651
+2018,Undeclared,Undeclared,18309
+2019,Agriculture,Agriculture,7857
+2019,Agriculture,Natural Resources and Conservation,5277
+2019,Business and Management,Business and Management,174470
+2019,Communications and Journalism,"Communication, Journalism",20587
+2019,Communications and Journalism,Communications Technologies/Technicians,3338
+2019,Education,Education,15700
+2019,Engineering,Construction Trades,147
+2019,Engineering,Engineering,202697
+2019,Engineering,Engineering Technologies/Technicians,14081
+2019,Engineering,Mechanic and Repair Technologies/Technicians,587
+2019,Engineering,Military Technologies,263
+2019,Engineering,Precision Production,77
+2019,Engineering,Transportation and Materials Moving,2690
+2019,Fine and Applied Arts,Architecture,14959
+2019,Fine and Applied Arts,Visual and Performing Arts,49542
+2019,Health Professions,Health Professions,34711
+2019,Health Professions,Residency Programs,223
+2019,Humanities,English Language and Literature/Letters,4715
+2019,Humanities,"Foreign Languages, Literatures and Linguistics",7293
+2019,Humanities,Philosophy and Religious Studies,2896
+2019,Humanities,Theology and Religious Vocations,2088
+2019,Intensive English,Intensive English,21301
+2019,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2071
+2019,Legal Studies and Law Enforcement,Legal Professions and Studies,14198
+2019,Math and Computer Science,Computer and Information Sciences,157566
+2019,Math and Computer Science,Mathematics and Statistics,47641
+2019,Other Fields of Study,Basic Skills,3481
+2019,Other Fields of Study,Family and Consumer Sciences/Human Sciences,3891
+2019,Other Fields of Study,Liberal Arts and Sciences/General Studies,45775
+2019,Other Fields of Study,Library Science,263
+2019,Other Fields of Study,Multi/Interdisciplinary Studies,21738
+2019,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",5963
+2019,Other Fields of Study,Personal and Culinary Services,669
+2019,Other Fields of Study,Reserve Officer Training Corps,57
+2019,Physical and Life Sciences,Biological and Biomedical Sciences,45298
+2019,Physical and Life Sciences,Physical Sciences,35773
+2019,Physical and Life Sciences,Science Technologies/Technicians,900
+2019,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2695
+2019,Social Sciences,History,2618
+2019,Social Sciences,Psychology,16984
+2019,Social Sciences,Public Administration and Social Service Professions,7739
+2019,Social Sciences,Social Sciences,54404
+2019,Undeclared,Undeclared,20273
+2020,Agriculture,Agriculture,7348
+2020,Agriculture,Natural Resources and Conservation,5012
+2020,Business and Management,Business and Management,145658
+2020,Communications and Journalism,"Communication, Journalism",17308
+2020,Communications and Journalism,Communications Technologies/Technicians,3305
+2020,Education,Education,15402
+2020,Engineering,Construction Trades,136
+2020,Engineering,Engineering,175076
+2020,Engineering,Engineering Technologies/Technicians,12276
+2020,Engineering,Mechanic and Repair Technologies/Technicians,326
+2020,Engineering,Military Technologies,123
+2020,Engineering,Precision Production,54
+2020,Engineering,Transportation and Materials Moving,2599
+2020,Fine and Applied Arts,Architecture,12914
+2020,Fine and Applied Arts,Visual and Performing Arts,38187
+2020,Health Professions,Health Professions,31768
+2020,Health Professions,Residency Programs,700
+2020,Humanities,English Language and Literature/Letters,3505
+2020,Humanities,"Foreign Languages, Literatures and Linguistics",6446
+2020,Humanities,Philosophy and Religious Studies,2845
+2020,Humanities,Theology and Religious Vocations,1906
+2020,Intensive English,Intensive English,8355
+2020,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1950
+2020,Legal Studies and Law Enforcement,Legal Professions and Studies,9734
+2020,Math and Computer Science,Computer and Information Sciences,139621
+2020,Math and Computer Science,Mathematics and Statistics,42485
+2020,Other Fields of Study,Basic Skills,1170
+2020,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2851
+2020,Other Fields of Study,Liberal Arts and Sciences/General Studies,33266
+2020,Other Fields of Study,Library Science,238
+2020,Other Fields of Study,Multi/Interdisciplinary Studies,19876
+2020,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",5728
+2020,Other Fields of Study,Personal and Culinary Services,775
+2020,Other Fields of Study,Reserve Officer Training Corps,138
+2020,Physical and Life Sciences,Biological and Biomedical Sciences,42067
+2020,Physical and Life Sciences,Physical Sciences,31964
+2020,Physical and Life Sciences,Science Technologies/Technicians,998
+2020,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2217
+2020,Social Sciences,History,2369
+2020,Social Sciences,Psychology,16196
+2020,Social Sciences,Public Administration and Social Service Professions,6360
+2020,Social Sciences,Social Sciences,49277
+2020,Undeclared,Undeclared,13566
+2021,Agriculture,Agriculture,7546
+2021,Agriculture,Natural Resources and Conservation,5179
+2021,Business and Management,Business and Management,147293
+2021,Communications and Journalism,"Communication, Journalism",16771
+2021,Communications and Journalism,Communications Technologies/Technicians,2931
+2021,Education,Education,15272
+2021,Engineering,Construction Trades,140
+2021,Engineering,Engineering,173718
+2021,Engineering,Engineering Technologies/Technicians,11261
+2021,Engineering,Mechanic and Repair Technologies/Technicians,353
+2021,Engineering,Military Technologies,133
+2021,Engineering,Precision Production,50
+2021,Engineering,Transportation and Materials Moving,2539
+2021,Fine and Applied Arts,Architecture,12395
+2021,Fine and Applied Arts,Visual and Performing Arts,38741
+2021,Health Professions,Health Professions,31379
+2021,Health Professions,Residency Programs,673
+2021,Humanities,English Language and Literature/Letters,3816
+2021,Humanities,"Foreign Languages, Literatures and Linguistics",6343
+2021,Humanities,Philosophy and Religious Studies,2838
+2021,Humanities,Theology and Religious Vocations,2207
+2021,Intensive English,Intensive English,7358
+2021,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",1853
+2021,Legal Studies and Law Enforcement,Legal Professions and Studies,11940
+2021,Math and Computer Science,Computer and Information Sciences,157896
+2021,Math and Computer Science,Mathematics and Statistics,42405
+2021,Other Fields of Study,Basic Skills,1581
+2021,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2329
+2021,Other Fields of Study,Liberal Arts and Sciences/General Studies,37228
+2021,Other Fields of Study,Library Science,212
+2021,Other Fields of Study,Multi/Interdisciplinary Studies,22932
+2021,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",6095
+2021,Other Fields of Study,Personal and Culinary Services,544
+2021,Other Fields of Study,Reserve Officer Training Corps,27
+2021,Physical and Life Sciences,Biological and Biomedical Sciences,45214
+2021,Physical and Life Sciences,Physical Sciences,32917
+2021,Physical and Life Sciences,Science Technologies/Technicians,581
+2021,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2373
+2021,Social Sciences,History,2428
+2021,Social Sciences,Psychology,16832
+2021,Social Sciences,Public Administration and Social Service Professions,6780
+2021,Social Sciences,Social Sciences,50357
+2021,Undeclared,Undeclared,17059
+2022,Agriculture,Agriculture,7868
+2022,Agriculture,Natural Resources and Conservation,5593
+2022,Business and Management,Business and Management,157281
+2022,Communications and Journalism,"Communication, Journalism",18059
+2022,Communications and Journalism,Communications Technologies/Technicians,3931
+2022,Education,Education,15897
+2022,Engineering,Construction Trades,248
+2022,Engineering,Engineering,183048
+2022,Engineering,Engineering Technologies/Technicians,16132
+2022,Engineering,Mechanic and Repair Technologies/Technicians,361
+2022,Engineering,Military Technologies,295
+2022,Engineering,Precision Production,43
+2022,Engineering,Transportation and Materials Moving,2674
+2022,Fine and Applied Arts,Architecture,13242
+2022,Fine and Applied Arts,Visual and Performing Arts,38447
+2022,Health Professions,Health Professions,33785
+2022,Health Professions,Residency Programs,1071
+2022,Humanities,English Language and Literature/Letters,4116
+2022,Humanities,"Foreign Languages, Literatures and Linguistics",6416
+2022,Humanities,Philosophy and Religious Studies,3146
+2022,Humanities,Theology and Religious Vocations,2105
+2022,Intensive English,Intensive English,10404
+2022,Legal Studies and Law Enforcement,"Homeland Security, Law Enforcement, and Firefighting",2084
+2022,Legal Studies and Law Enforcement,Legal Professions and Studies,14012
+2022,Math and Computer Science,Computer and Information Sciences,196727
+2022,Math and Computer Science,Mathematics and Statistics,43503
+2022,Other Fields of Study,Basic Skills,3076
+2022,Other Fields of Study,Family and Consumer Sciences/Human Sciences,2250
+2022,Other Fields of Study,Liberal Arts and Sciences/General Studies,43067
+2022,Other Fields of Study,Library Science,103
+2022,Other Fields of Study,Multi/Interdisciplinary Studies,32496
+2022,Other Fields of Study,"Parks, Recreation, Leisure and Fitness Studies",6287
+2022,Other Fields of Study,Personal and Culinary Services,646
+2022,Other Fields of Study,Reserve Officer Training Corps,37
+2022,Physical and Life Sciences,Biological and Biomedical Sciences,49993
+2022,Physical and Life Sciences,Physical Sciences,34126
+2022,Physical and Life Sciences,Science Technologies/Technicians,711
+2022,Social Sciences,"Area, Ethnic, Cultural and Gender Studies",2492
+2022,Social Sciences,History,2551
+2022,Social Sciences,Psychology,18474
+2022,Social Sciences,Public Administration and Social Service Professions,8483
+2022,Social Sciences,Social Sciences,53998
+2022,Undeclared,Undeclared,17910
