@@ -1,3 +1,5 @@
+                                                                                          **Business-Intelligence-Projects**
+
 Welcome to the Business Intelligence (BI) Projects repository! This repository contains various BI projects developed using PowerBI and Tableau for different purposes. Below is a brief overview of each project:
 
 **1. Call Center Project (PowerBI)**
